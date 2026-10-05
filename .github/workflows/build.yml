@@ -13,11 +13,19 @@ steps:
 with:
 distribution: temurin
 java-version: '25'
-- name: Compilar
-run: |
+Check failure on line 15 in .github/workflows/build.yml
+
+
+GitHub Actions
+/ .github/workflows/build.yml
+Invalid workflow file
+
+You have an error in your yaml syntax on line 15
+- name:Compilar
+run:|
 chmod +x gradlew
 ./gradlew assembleDebug
-- uses: actions/upload-artifact@v4
+- uses:actions/upload-artifact@v4
 with:
-name: AstroKnightsTurnos-apk
-path: app/build/outputs/apk/debug/app-debug.apk
+name:AstroKnightsTurnos-apk
+path:app/build/outputs/apk/debug/app-debug.apk
