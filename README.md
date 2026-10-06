@@ -17,3 +17,6 @@ App Android que simula el mazo de orden de turnos de Astro Knights (basada en la
 ## Compilar
 Abre la carpeta en Android Studio (JDK 17), deja que sincronice Gradle y pulsa Run, o:
 `./gradlew assembleDebug` → app/build/outputs/apk/debug/app-debug.apk
+
+## Primera y última versión :]
+https://github.com/movilla/astro-knights-turnos/actions/runs/37436567181/artifacts/11398937464
