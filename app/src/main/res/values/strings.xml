@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Astro Knights Turnos</string>
+
+    <string name="boss_default">Jefe</string>
+    <string name="player_default">Jugador %1$d</string>
+
+    <string name="subtitle_boss">Turno del Jefe</string>
+    <string name="subtitle_player">Turno del caballero</string>
+    <string name="subtitle_wild">Comodín · la ficha pasa a %1$s</string>
+    <string name="subtitle_pair_first">Elegid cuál de los dos juega ahora</string>
+    <string name="subtitle_pair_second">Juega el que aún no ha jugado</string>
+    <string name="pair_title">%1$s / %2$s</string>
+
+    <string name="history_title">Salidas: %1$s</string>
+    <string name="remaining">Quedan en el mazo: %1$d</string>
+    <string name="history_wild">%1$s (comodín)</string>
+    <string name="history_pair_second">%1$s (2.ª)</string>
+    <string name="reshuffled">Mazo barajado</string>
+    <string name="cd_undo">Deshacer</string>
+    <string name="cd_settings">Ajustes</string>
+
+    <string name="title_settings">Ajustes</string>
+    <string name="settings_players">Número de jugadores (caballeros)</string>
+    <string name="settings_players_hint">1 jugador: 3 cartas de jugador y 2 del Jefe. 3 jugadores: incluye la carta comodín; entrega la ficha comodín al Jugador 1 y numera a los jugadores en el sentido de las agujas del reloj, porque la ficha pasa a la izquierda. 4 jugadores: cartas 1/2 y 3/4.</string>
+    <string name="settings_names">Nombres</string>
+    <string name="settings_boss">Jefe</string>
+    <string name="settings_reset">Reiniciar mazo</string>
+    <string name="settings_reset_done">El mazo se reiniciará al volver</string>
+</resources>

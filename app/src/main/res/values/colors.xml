@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="boss_bg">#8E1B1B</color>
+    <color name="player1_bg">#1565C0</color>
+    <color name="player2_bg">#2E7D32</color>
+    <color name="player3_bg">#EF6C00</color>
+    <color name="player4_bg">#6A1B9A</color>
+    <color name="ic_launcher_background">#0D1B3D</color>
+</resources>
