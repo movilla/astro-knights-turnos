@@ -24,7 +24,7 @@ Open the folder in Android Studio (JDK 17), let Gradle sync and press Run, or:
 `./gradlew assembleDebug` → app/build/outputs/apk/debug/app-debug.apk
 
 ## First and latest version :]
-https://github.com/movilla/astro-knights-turnos/actions/runs/37436567181/artifacts/11398937464
+https://github.com/movilla/astro-knights-turnos/actions/runs/37647792719/artifacts/11494214972
 
 ## License
 GNU AGPL-3.0, see [LICENSE](LICENSE).
@@ -57,7 +57,7 @@ Abre la carpeta en Android Studio (JDK 17), deja que sincronice Gradle y pulsa R
 `./gradlew assembleDebug` → app/build/outputs/apk/debug/app-debug.apk
 
 ## Primera y última versión :]
-https://github.com/movilla/astro-knights-turnos/actions/runs/37436567181/artifacts/11398937464
+https://github.com/movilla/astro-knights-turnos/actions/runs/37647792719/artifacts/11494214972
 
 ## Licencia
 GNU AGPL-3.0, véase [LICENSE](LICENSE).
